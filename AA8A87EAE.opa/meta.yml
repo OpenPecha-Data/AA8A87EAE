@@ -1,0 +1,19 @@
+id: AA8A87EAE
+title: 'Gyang Lu: A Song of Calling from Afar'
+type: translation
+pechas:
+- I7AA8C8E4
+- I866D67B8
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:51:22.686898
+  last_modified_at: 2023-01-04 12:51:22.686923
+  collections:
+  - Khenchen Ngawang Palzang Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I7AA8C8E4/D985: 7FD3
+  I866D67B8/2025: 7FD3
